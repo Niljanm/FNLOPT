@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm [Your Name] 👋!  
+Hi, I'm Nell from IT-1108 👋!  
 I am a first-year IT student, excited to learn and explore the world of technology. My journey in programming and IT has just begun, and I'm eager to develop my skills and work on interesting projects.
 
 
@@ -24,7 +24,7 @@ I am a first-year IT student, excited to learn and explore the world of technolo
 
 ## Get in Touch
 
-- **Email**: [mapaladcedrick24@gmail.com]  
+- **Email**: mapaladcedrick24@gmail.com
 
 
 ---
